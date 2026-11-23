@@ -1,11 +1,10 @@
-
 # Hi, I'm Riya 👋
 
-### Java Full-Stack Developer | Spring Boot | Angular | Cloud & AI Enthusiast
+### Java Full-Stack Developer | Java | Spring Boot | Angular | PostgreSQL
 
-I'm a software developer passionate about building reliable backend systems, full-stack applications and practical AI-powered solutions.
+I'm a software developer passionate about building reliable backend systems, scalable applications, and user-friendly full-stack solutions.
 
-I enjoy learning new technologies and turning ideas into working applications.
+I have professional experience in Java-based application development and enjoy working with backend technologies, REST APIs, databases, and modern frontend frameworks. I'm also exploring cloud computing and AI-powered application development.
 
 ## 🛠️ Tech Stack
 
@@ -15,25 +14,32 @@ I enjoy learning new technologies and turning ideas into working applications.
 - Spring Security
 - Spring Data JPA / Hibernate
 - REST APIs
+- Microservices
 
 **Frontend**
 - Angular
 - TypeScript
 - JavaScript
-- HTML & CSS
+- HTML5 & CSS3
 
 **Database**
 - PostgreSQL
 - MySQL
 - H2
 
-**Tools**
+**Testing**
+- JUnit 5
+- Mockito
+- Spring Boot Test
+
+**Tools & Technologies**
 - Git & GitHub
 - IntelliJ IDEA
-- VS Code
+- Visual Studio Code
 - Maven
 - Jenkins
 - Postman
+- GitHub Copilot
 
 **Currently Learning**
 - Spring Cloud
@@ -44,37 +50,43 @@ I enjoy learning new technologies and turning ideas into working applications.
 
 ## 🚀 Featured Projects
 
-### SmartSpend – Smart Expense Tracker
+### 1. SmartSpend – Smart Expense Tracker
 
-A full-stack personal finance management application.
+A full-stack personal finance management application designed to help users manage expenses and budgets.
 
-- Java and Spring Boot backend
-- Angular frontend
-- JWT authentication
-- Expense management and pagination
-- Budget management
-- Category summaries
+**Technologies:** Java, Spring Boot, Angular, PostgreSQL, Spring Security
 
-[View SmartSpend](https://github.com/riyaiqubal2026-bot/smart-expense-tracker)
+**Key Features**
+- RESTful API development using Spring Boot
+- Microservices architecture with separate User and Expense services
+- JWT-based authentication and authorization
+- User-specific expense management
+- Expense search, filtering and pagination
+- Budget creation and management
+- Category-wise expense summaries
+- Monthly spending analysis
+- Unit and integration testing
 
-### AI Knowledge Assistant
+[View Project on GitHub](https://github.com/riyaiqubal2026-bot/smart-expense-tracker)
 
-An AI-powered document assistant using Spring AI and Retrieval-Augmented Generation.
+### 2. AI Knowledge Assistant – Currently Exploring
 
-- Document processing
-- Embeddings and vector search
-- Context-aware AI responses
-- Source citations
+An upcoming AI-powered document assistant using Spring AI and Retrieval-Augmented Generation (RAG).
 
-*Coming soon!*
+**Planned Features**
+- Document upload and processing
+- Text embeddings and vector search
+- Context-aware question answering
+- Source-based responses and citations
 
 ## 🎯 Current Goals
 
-- Build production-style Spring Boot applications.
-- Learn microservices using Spring Cloud.
-- Build AI applications using Spring AI.
-- Deploy applications on AWS.
-- Prepare for AWS Developer Associate certification.
+- Build production-style applications using Java and Spring Boot.
+- Strengthen my knowledge of microservices and distributed systems.
+- Explore AI application development using Spring AI.
+- Learn cloud deployment using AWS.
+- Improve software testing and CI/CD practices.
+- Prepare for AWS Certified Developer – Associate.
 
 ## 🤝 Connect With Me
 
